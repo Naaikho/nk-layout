@@ -1,0 +1,9 @@
+**/*.style.js*
+**/*.style.ts*
+Styles.js*
+Styles.ts*
+Themes.js*
+Themes.ts*
+
+index.html
+*.md

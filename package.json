@@ -1,0 +1,34 @@
+{
+  "name": "nk-layout",
+  "version": "1.0.0",
+  "description": "JSX Layout components like Box and Container with Styled Component",
+  "type": "module",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "unpkg": "dist/index.umd.js",
+  "author": "Naikho",
+  "license": "ISC",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.1",
+    "sass": "^1.71.1",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "microbundle": "^0.15.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Naaikho/nk-layout.git"
+  }
+}
