@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "JSX Layout components like Box and Container with Styled Component",
   "type": "module",
-  "source": "src/index.js",
+  "source": "src/index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
